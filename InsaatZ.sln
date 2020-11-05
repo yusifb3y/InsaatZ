@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsaatZ", "InsaatZ\InsaatZ.csproj", "{AE4D1180-3929-4861-A693-842D4ABF2CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4D1180-3929-4861-A693-842D4ABF2CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4D1180-3929-4861-A693-842D4ABF2CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4D1180-3929-4861-A693-842D4ABF2CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4D1180-3929-4861-A693-842D4ABF2CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78C9B950-A3E3-44F7-99F4-2D6AB45358A7}
+	EndGlobalSection
+EndGlobal
